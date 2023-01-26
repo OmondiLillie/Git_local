@@ -1,0 +1,2 @@
+Clone a repository using the command git clone <URL of the repository>
+ git pull <url link> is for pulling your changes from the other repository
